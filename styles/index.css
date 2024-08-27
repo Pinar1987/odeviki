@@ -1,0 +1,26 @@
+h1{
+    color:firebrick
+}
+
+
+p{text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+p{
+    color:blueviolet;
+    margin: 75px;
+    }
+
+h4{
+    color: coral;
+}
+body{
+    background-color: deepskyblue;
+}
+#unicorn{
+ 
+       display: block;
+        margin: auto;
+      }
